@@ -1,0 +1,2274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns:rdf     = "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs    = "http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd     = "http://www.w3.org/2001/XMLSchema#"
+    xmlns:owl     = "http://www.w3.org/2002/07/owl#"
+    xmlns:swrl    = "http://www.w3.org/2003/11/swrl#"
+    xmlns:swrlb   = "http://www.w3.org/2003/11/swrlb#"
+    xmlns:vitro1  = "http://vitro.mannlib.cornell.edu/ns/vitro/0.7#"
+    xmlns:bibo    = "http://purl.org/ontology/bibo/"
+    xmlns:c4o     = "http://purl.org/spar/c4o/"
+    xmlns:dcelem  = "http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms = "http://purl.org/dc/terms/"
+    xmlns:event   = "http://purl.org/NET/c4dm/event.owl#"
+    xmlns:foaf    = "http://xmlns.com/foaf/0.1/"
+    xmlns:fabio   = "http://purl.org/spar/fabio/"
+    xmlns:geo     = "http://aims.fao.org/aos/geopolitical.owl#"
+    xmlns:pvs     = "http://vivoweb.org/ontology/provenance-support#"
+    xmlns:ero     = "http://purl.obolibrary.org/obo/"
+    xmlns:scires  = "http://vivoweb.org/ontology/scientific-research#"
+    xmlns:skos    = "http://www.w3.org/2004/02/skos/core#"
+    xmlns:ufVivo  = "http://vivo.ufl.edu/ontology/vivo-ufl/"
+    xmlns:vitro2  = "http://vitro.mannlib.cornell.edu/ns/vitro/public#"
+    xmlns:core    = "http://vivoweb.org/ontology/core#"
+    xmlns:vivo    = "http://vivoweb.org/ontology/core#">
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1807083821">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1807083821">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Non-AcademicPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1807083821">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1807083821">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1807083821">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1807083821">
+        <ufVivo:dateHarvested>2014-05-09T16:01:16.082253</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1807083821">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1807083821">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n5574066128"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1807083821">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1807083821">
+        <vivo:hrJobTitle>INFO/PUBLICATIONS SVCS, CRD 3</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1807083821">
+        <rdfs:label>Information/Publications Services, Coordinator 3</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1807083821">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n112585"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5574066128">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n1807083821"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n112585">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n1807083821"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7446282004">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7446282004">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7446282004">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7446282004">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7446282004">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7446282004">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7446282004">
+        <ufVivo:dateHarvested>2014-05-09T14:02:57.664649</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7446282004">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7446282004">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7446282004">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n5981085360"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7446282004">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7446282004">
+        <vivo:hrJobTitle>CO CLIN AST PROF</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7446282004">
+        <rdfs:label>Courtesy Clinical Assistant Professor</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7446282004">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n867890"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n867890">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n7446282004"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5981085360">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n7446282004"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4695921375">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4695921375">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4695921375">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4695921375">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4695921375">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4695921375">
+        <ufVivo:dateHarvested>2014-05-09T15:54:30.892184</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4695921375">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4695921375">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n6410718190"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4695921375">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4695921375">
+        <vivo:hrJobTitle>PROF</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4695921375">
+        <rdfs:label>Professor</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4695921375">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n207803"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6410718190">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n4695921375"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n207803">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n4695921375"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6748928806">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6748928806">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Housestaff"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6748928806">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Non-FacultyAcademicPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6748928806">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6748928806">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6748928806">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6748928806">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6748928806">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6748928806">
+        <ufVivo:dateHarvested>2014-05-09T14:20:13.076932</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6748928806">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/Housestaff"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6748928806">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6748928806">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n1715208468"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6748928806">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6748928806">
+        <vivo:hrJobTitle>RESIDENT</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6748928806">
+        <rdfs:label>Resident</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6748928806">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n250701"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1715208468">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n6748928806"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n250701">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n6748928806"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8467482613">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8467482613">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Non-AcademicPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8467482613">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8467482613">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8467482613">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8467482613">
+        <ufVivo:dateHarvested>2014-05-09T14:52:40.736799</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8467482613">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8467482613">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n6975454706"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8467482613">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8467482613">
+        <vivo:hrJobTitle>CLINICAL PROGRAMS, CRD 2</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8467482613">
+        <rdfs:label>Clinical Programs, Coordinator 2</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8467482613">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n1278128"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6975454706">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n8467482613"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1278128">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n8467482613"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4760444834">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4760444834">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4760444834">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4760444834">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4760444834">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4760444834">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4760444834">
+        <ufVivo:dateHarvested>2014-05-09T15:47:57.098747</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4760444834">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4760444834">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4760444834">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n5818141811"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4760444834">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4760444834">
+        <vivo:hrJobTitle>CO CLIN AST PROF</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4760444834">
+        <rdfs:label>Courtesy Clinical Assistant Professor</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4760444834">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n50506"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n50506">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n4760444834"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5818141811">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n4760444834"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4304052990">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4304052990">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/PostDocPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4304052990">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4304052990">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4304052990">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4304052990">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4304052990">
+        <ufVivo:dateHarvested>2014-05-09T14:59:09.394341</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4304052990">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4304052990">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/PostDocPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4304052990">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n4116612733"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4304052990">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4304052990">
+        <vivo:hrJobTitle>POSTDOC ASO</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4304052990">
+        <rdfs:label>Postdoctoral Associate</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4304052990">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n159204"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4116612733">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n4304052990"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n159204">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n4304052990"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3289440771">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3289440771">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3289440771">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3289440771">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3289440771">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3289440771">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3289440771">
+        <ufVivo:dateHarvested>2014-05-09T15:12:55.638957</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3289440771">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3289440771">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3289440771">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n407734458"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3289440771">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3289440771">
+        <vivo:hrJobTitle>CO CLIN AST PROF</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3289440771">
+        <rdfs:label>Courtesy Clinical Assistant Professor</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3289440771">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n867890"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n867890">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n3289440771"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n407734458">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n3289440771"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7858391781">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7858391781">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7858391781">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7858391781">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7858391781">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7858391781">
+        <ufVivo:dateHarvested>2014-05-09T16:11:35.590362</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7858391781">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7858391781">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n3328580624"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7858391781">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7858391781">
+        <vivo:hrJobTitle>RES AST SCTST</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7858391781">
+        <rdfs:label>Research Assistant Scientist</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7858391781">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n1590995014"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1590995014">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n7858391781"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3328580624">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n7858391781"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4619461481">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4619461481">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/ClinicalFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4619461481">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4619461481">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4619461481">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4619461481">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4619461481">
+        <ufVivo:dateHarvested>2014-05-09T14:59:03.534949</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4619461481">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/ClinicalFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4619461481">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n3196349086"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4619461481">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4619461481">
+        <vivo:hrJobTitle>CLIN AST PROF</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4619461481">
+        <rdfs:label>Clinical Assistant Professor</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4619461481">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n143130"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3196349086">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n4619461481"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n143130">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n4619461481"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7711486597">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7711486597">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7711486597">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7711486597">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7711486597">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7711486597">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7711486597">
+        <ufVivo:dateHarvested>2014-05-09T14:27:24.003790</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7711486597">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7711486597">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7711486597">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n196039085"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7711486597">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7711486597">
+        <vivo:hrJobTitle>CO CLIN AST PROF</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7711486597">
+        <rdfs:label>Courtesy Clinical Assistant Professor</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7711486597">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n50506"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n50506">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n7711486597"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n196039085">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n7711486597"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8116214712">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyMember"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8116214712">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8116214712">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8116214712">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8116214712">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8116214712">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/TemporaryFaculty"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8116214712">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8116214712">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8116214712">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8116214712">
+        <ufVivo:dateHarvested>2014-05-09T15:50:41.411791</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8116214712">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8116214712">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/TemporaryFaculty"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8116214712">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n3725798294"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8116214712">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8116214712">
+        <vivo:hrJobTitle>ADJ LECTURER</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8116214712">
+        <rdfs:label>Adjunct Lecturer</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8116214712">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n558844585"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n558844585">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n8116214712"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3725798294">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n8116214712"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1396287779">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1396287779">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/PostDocPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1396287779">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1396287779">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1396287779">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1396287779">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1396287779">
+        <ufVivo:dateHarvested>2014-05-09T15:58:00.176230</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1396287779">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1396287779">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/PostDocPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1396287779">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n6774818449"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1396287779">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1396287779">
+        <vivo:hrJobTitle>POSTDOC ASO</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1396287779">
+        <rdfs:label>Postdoctoral Associate</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1396287779">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n243218"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6774818449">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n1396287779"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n243218">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n1396287779"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6009271868">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6009271868">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6009271868">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6009271868">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6009271868">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6009271868">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6009271868">
+        <ufVivo:dateHarvested>2014-05-09T15:38:38.616045</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6009271868">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6009271868">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6009271868">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n7345727907"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6009271868">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6009271868">
+        <vivo:hrJobTitle>CO CLIN LECTURER</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6009271868">
+        <rdfs:label>Courtesy Clinical Lecturer</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6009271868">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n50506"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n50506">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n6009271868"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7345727907">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n6009271868"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9228551311">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9228551311">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Non-AcademicPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9228551311">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9228551311">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9228551311">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9228551311">
+        <ufVivo:dateHarvested>2014-05-09T13:59:24.188974</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9228551311">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9228551311">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n2459499756"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9228551311">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9228551311">
+        <vivo:hrJobTitle>APPLICATION DEVELOPER ANLST 1</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9228551311">
+        <rdfs:label>Application Developer Anlst 1</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9228551311">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n23788"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23788">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n9228551311"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2459499756">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n9228551311"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6104275254">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6104275254">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Non-AcademicPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6104275254">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6104275254">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6104275254">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6104275254">
+        <ufVivo:dateHarvested>2014-05-09T15:20:03.802819</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6104275254">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6104275254">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n6026059930"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6104275254">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6104275254">
+        <vivo:hrJobTitle>UNIV RELATIONS, CRD 1</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6104275254">
+        <rdfs:label>University Relations, Coordinator 1</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6104275254">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n9178"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6026059930">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n6104275254"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9178">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n6104275254"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n561300808">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n561300808">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n561300808">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n561300808">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n561300808">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n561300808">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n561300808">
+        <ufVivo:dateHarvested>2014-05-09T14:35:53.106900</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n561300808">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n561300808">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n561300808">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n9237115939"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n561300808">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n561300808">
+        <vivo:hrJobTitle>CO CLIN LECTURER</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n561300808">
+        <rdfs:label>Courtesy Clinical Lecturer</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n561300808">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n50506"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n50506">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n561300808"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9237115939">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n561300808"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2636133127">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyMember"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2636133127">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2636133127">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2636133127">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2636133127">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2636133127">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/TemporaryFaculty"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2636133127">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2636133127">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2636133127">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2636133127">
+        <ufVivo:dateHarvested>2014-05-09T15:42:04.152376</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2636133127">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2636133127">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/TemporaryFaculty"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2636133127">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n5735641129"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2636133127">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2636133127">
+        <vivo:hrJobTitle>ADJ CLIN AST PROF</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2636133127">
+        <rdfs:label>Adjunct Clinical Assistant Professor</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2636133127">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n80396"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5735641129">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n2636133127"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n80396">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n2636133127"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7702420474">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7702420474">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7702420474">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7702420474">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7702420474">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7702420474">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7702420474">
+        <ufVivo:dateHarvested>2014-05-09T14:12:51.359146</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7702420474">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7702420474">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7702420474">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n4049637087"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7702420474">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7702420474">
+        <vivo:hrJobTitle>CO CLIN AST PROF</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7702420474">
+        <rdfs:label>Courtesy Clinical Assistant Professor</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7702420474">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n50506"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n50506">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n7702420474"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4049637087">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n7702420474"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1537336378">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1537336378">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1537336378">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1537336378">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1537336378">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1537336378">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1537336378">
+        <ufVivo:dateHarvested>2014-05-09T15:40:40.233565</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1537336378">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1537336378">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1537336378">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n3089313969"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1537336378">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1537336378">
+        <vivo:hrJobTitle>CO CLIN LECTURER</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1537336378">
+        <rdfs:label>Courtesy Clinical Lecturer</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1537336378">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n50506"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n50506">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n1537336378"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3089313969">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n1537336378"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8470961330">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8470961330">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8470961330">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8470961330">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8470961330">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8470961330">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8470961330">
+        <ufVivo:dateHarvested>2014-05-09T14:43:13.248146</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8470961330">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8470961330">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8470961330">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n1704541906"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8470961330">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8470961330">
+        <vivo:hrJobTitle>CO CLIN AST PROF</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8470961330">
+        <rdfs:label>Courtesy Clinical Assistant Professor</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8470961330">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n50506"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n50506">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n8470961330"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1704541906">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n8470961330"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1534925639">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1534925639">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Non-AcademicPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1534925639">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1534925639">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1534925639">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1534925639">
+        <ufVivo:dateHarvested>2014-05-09T14:31:02.360618</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1534925639">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1534925639">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n785504342"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1534925639">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1534925639">
+        <vivo:hrJobTitle>ENGINEER</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1534925639">
+        <rdfs:label>Engineer</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1534925639">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n199051"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n785504342">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n1534925639"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n199051">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n1534925639"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7160550137">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7160550137">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Non-AcademicPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7160550137">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7160550137">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7160550137">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7160550137">
+        <ufVivo:dateHarvested>2014-05-09T16:12:57.038236</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7160550137">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7160550137">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n2771272581"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7160550137">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7160550137">
+        <vivo:hrJobTitle>BIOLOGICAL SCIENTIST</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7160550137">
+        <rdfs:label>Biological Scientist</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7160550137">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n1413873275"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2771272581">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n7160550137"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1413873275">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n7160550137"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1087076037">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1087076037">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1087076037">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1087076037">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1087076037">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1087076037">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1087076037">
+        <ufVivo:dateHarvested>2014-05-09T14:13:30.027322</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1087076037">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1087076037">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1087076037">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n9672414135"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1087076037">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1087076037">
+        <vivo:hrJobTitle>CO AST IN</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1087076037">
+        <rdfs:label>Courtesy Assistant In</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1087076037">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n1842464339"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1842464339">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n1087076037"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9672414135">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n1087076037"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3710840901">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3710840901">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3710840901">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3710840901">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3710840901">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3710840901">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3710840901">
+        <ufVivo:dateHarvested>2014-05-09T16:08:41.380841</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3710840901">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3710840901">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3710840901">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n2752148376"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3710840901">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3710840901">
+        <vivo:hrJobTitle>CO SCHOLAR</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3710840901">
+        <rdfs:label>Courtesy Scholar</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3710840901">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n361590"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n361590">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n3710840901"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2752148376">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n3710840901"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6585480503">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6585480503">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6585480503">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6585480503">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6585480503">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6585480503">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6585480503">
+        <ufVivo:dateHarvested>2014-05-09T14:23:42.576357</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6585480503">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6585480503">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6585480503">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n1235128404"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6585480503">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6585480503">
+        <vivo:hrJobTitle>CO CLIN AST PROF</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6585480503">
+        <rdfs:label>Courtesy Clinical Assistant Professor</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6585480503">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n466107"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1235128404">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n6585480503"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n466107">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n6585480503"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1522426481">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1522426481">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Non-AcademicPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1522426481">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1522426481">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1522426481">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1522426481">
+        <ufVivo:dateHarvested>2014-05-09T14:41:08.476203</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1522426481">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1522426481">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n7693988132"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1522426481">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1522426481">
+        <vivo:hrJobTitle>BIOLOGICAL SCIENTIST</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1522426481">
+        <rdfs:label>Biological Scientist</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1522426481">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n1413873275"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7693988132">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n1522426481"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1413873275">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n1522426481"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n260836">
+        <vitro1:modTime datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-04T17:22:03</vitro1:modTime>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n260836">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n260836">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n260836">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n260836">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n260836">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n260836">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n260836">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n129301"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n260836">
+        <rdfs:label datatype="http://www.w3.org/2001/XMLSchema#string">Research Associate Professor</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n260836">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n228804"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n129301">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n260836"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n228804">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n260836"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1949306404">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1949306404">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Non-AcademicPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1949306404">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1949306404">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1949306404">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1949306404">
+        <ufVivo:dateHarvested>2014-05-09T15:06:22.314813</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1949306404">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1949306404">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n8975797351"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1949306404">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1949306404">
+        <vivo:hrJobTitle>RESEARCH PROGS/SVCS, CRD 2</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1949306404">
+        <rdfs:label>Research Programs/Services, Coordinator 2</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1949306404">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n238208"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8975797351">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n1949306404"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n238208">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n1949306404"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2735523976">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2735523976">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Non-AcademicPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2735523976">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2735523976">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2735523976">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2735523976">
+        <ufVivo:dateHarvested>2014-05-09T15:00:49.546279</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2735523976">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2735523976">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n165486957"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2735523976">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2735523976">
+        <vivo:hrJobTitle>ADMISSIONS/REGISTRATION, CRD 1</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2735523976">
+        <rdfs:label>Admissions/Registration, Coordinator 1</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2735523976">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n50502"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n165486957">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n2735523976"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n50502">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n2735523976"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4190659230">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4190659230">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4190659230">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4190659230">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4190659230">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4190659230">
+        <ufVivo:dateHarvested>2014-05-09T14:14:31.034134</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4190659230">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4190659230">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n1202509129"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4190659230">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4190659230">
+        <vivo:hrJobTitle>AST UNIV LIBRARIAN</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4190659230">
+        <rdfs:label>Assistant University Librarian</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4190659230">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n235579"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n235579">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n4190659230"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1202509129">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n4190659230"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1155049527">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1155049527">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1155049527">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1155049527">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1155049527">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1155049527">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1155049527">
+        <ufVivo:dateHarvested>2014-05-09T14:03:43.614998</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1155049527">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1155049527">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1155049527">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n7572074782"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1155049527">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1155049527">
+        <vivo:hrJobTitle>CO CLIN LECTURER</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1155049527">
+        <rdfs:label>Courtesy Clinical Lecturer</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1155049527">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n50506"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n50506">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n1155049527"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7572074782">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n1155049527"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1468344634">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1468344634">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Non-AcademicPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1468344634">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1468344634">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1468344634">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1468344634">
+        <ufVivo:dateHarvested>2014-05-09T14:05:59.603595</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1468344634">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1468344634">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n7619360445"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1468344634">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1468344634">
+        <vivo:hrJobTitle>RESEARCH PROGS/SVCS, CRD 2</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1468344634">
+        <rdfs:label>Research Programs/Services, Coordinator 2</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1468344634">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n1278103"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7619360445">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n1468344634"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1278103">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n1468344634"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7148601417">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7148601417">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Non-AcademicPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7148601417">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7148601417">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7148601417">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7148601417">
+        <ufVivo:dateHarvested>2014-05-09T14:47:42.254194</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7148601417">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7148601417">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n4147041021"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7148601417">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7148601417">
+        <vivo:hrJobTitle>FARM MGR</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7148601417">
+        <rdfs:label>Farm Manager</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7148601417">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n466121"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n4147041021">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n7148601417"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n466121">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n7148601417"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3158233435">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3158233435">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Non-AcademicPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3158233435">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3158233435">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3158233435">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3158233435">
+        <ufVivo:dateHarvested>2014-05-09T16:09:41.785069</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3158233435">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3158233435">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n5009831804"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3158233435">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3158233435">
+        <vivo:hrJobTitle>CLINICAL PROGRAMS, CRD 4</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3158233435">
+        <rdfs:label>Clinical Programs, Coordinator 4</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n3158233435">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n422156"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5009831804">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n3158233435"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n422156">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n3158233435"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6705645132">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6705645132">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6705645132">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6705645132">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6705645132">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6705645132">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6705645132">
+        <ufVivo:dateHarvested>2014-05-09T15:45:04.619755</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6705645132">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6705645132">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6705645132">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n5114929533"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6705645132">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6705645132">
+        <vivo:hrJobTitle>CO CLIN AST PROF</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6705645132">
+        <rdfs:label>Courtesy Clinical Assistant Professor</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6705645132">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n50506"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n50506">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n6705645132"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5114929533">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n6705645132"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9233738077">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9233738077">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/ClinicalFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9233738077">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9233738077">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9233738077">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9233738077">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9233738077">
+        <ufVivo:dateHarvested>2014-05-09T16:10:42.624931</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9233738077">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/ClinicalFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9233738077">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n2865325599"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9233738077">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9233738077">
+        <vivo:hrJobTitle>PRG DIR &amp; CLIN PROF</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9233738077">
+        <rdfs:label>Programs Director and Clinical Professor</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9233738077">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n230011"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n230011">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n9233738077"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2865325599">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n9233738077"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1791642779">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1791642779">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Non-AcademicPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1791642779">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1791642779">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1791642779">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1791642779">
+        <ufVivo:dateHarvested>2014-05-16T11:51:47.039292</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1791642779">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1791642779">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n2869386417"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1791642779">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1791642779">
+        <vivo:hrJobTitle>BIOLOGICAL SCIENTIST</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1791642779">
+        <rdfs:label>Biological Scientist</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1791642779">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n466139"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2869386417">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n1791642779"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n466139">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n1791642779"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2303010538">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyMember"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2303010538">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2303010538">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2303010538">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2303010538">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2303010538">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/TemporaryFaculty"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2303010538">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2303010538">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2303010538">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2303010538">
+        <ufVivo:dateHarvested>2014-05-09T15:11:11.719943</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2303010538">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2303010538">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/TemporaryFaculty"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2303010538">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n7256669308"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2303010538">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2303010538">
+        <vivo:hrJobTitle>ADJ ASO PROF</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2303010538">
+        <rdfs:label>Adjunct Associate Professor</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2303010538">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n1590995014"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7256669308">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n2303010538"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1590995014">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n2303010538"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7518039596">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7518039596">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7518039596">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7518039596">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7518039596">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7518039596">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7518039596">
+        <ufVivo:dateHarvested>2014-05-09T14:49:24.454133</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7518039596">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7518039596">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7518039596">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n5966475720"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7518039596">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7518039596">
+        <vivo:hrJobTitle>CO CLIN AST PROF</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7518039596">
+        <rdfs:label>Courtesy Clinical Assistant Professor</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7518039596">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n50506"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n50506">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n7518039596"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5966475720">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n7518039596"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6121324541">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6121324541">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Non-AcademicPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6121324541">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6121324541">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6121324541">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6121324541">
+        <ufVivo:dateHarvested>2014-05-09T15:05:12.592055</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6121324541">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6121324541">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n1174816964"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6121324541">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6121324541">
+        <vivo:hrJobTitle>CLINICAL PROGRAMS, CRD 4</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6121324541">
+        <rdfs:label>Clinical Programs, Coordinator 4</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6121324541">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n106573"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1174816964">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n6121324541"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n106573">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n6121324541"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1411196989">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1411196989">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/PostDocPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1411196989">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1411196989">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1411196989">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1411196989">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1411196989">
+        <ufVivo:dateHarvested>2014-05-09T14:44:04.386666</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1411196989">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1411196989">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/PostDocPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1411196989">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n1008259364"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1411196989">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1411196989">
+        <vivo:hrJobTitle>POSTDOC ASO</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1411196989">
+        <rdfs:label>Postdoctoral Associate</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1411196989">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n242078"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1008259364">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n1411196989"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n242078">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n1411196989"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2070542364">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2070542364">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/PostDocPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2070542364">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2070542364">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2070542364">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2070542364">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2070542364">
+        <ufVivo:dateHarvested>2014-05-09T14:17:34.664340</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2070542364">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2070542364">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/PostDocPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2070542364">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n7143078362"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2070542364">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2070542364">
+        <vivo:hrJobTitle>POSTDOC ASO</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2070542364">
+        <rdfs:label>Postdoctoral Associate</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2070542364">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n108003"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n108003">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n2070542364"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7143078362">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n2070542364"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6384861084">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6384861084">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Non-AcademicPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6384861084">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6384861084">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6384861084">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6384861084">
+        <ufVivo:dateHarvested>2014-05-09T15:23:11.087570</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6384861084">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6384861084">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n7260344695"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6384861084">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6384861084">
+        <vivo:hrJobTitle>CLINICAL PROGRAMS, CRD 1</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6384861084">
+        <rdfs:label>Clinical Programs, Coordinator 1</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6384861084">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n296228"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n7260344695">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n6384861084"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n296228">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n6384861084"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6526603319">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6526603319">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Non-AcademicPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6526603319">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6526603319">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6526603319">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6526603319">
+        <ufVivo:dateHarvested>2014-05-09T15:34:46.661566</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6526603319">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6526603319">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n2375210179"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6526603319">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6526603319">
+        <vivo:hrJobTitle>STUDENT AFFAIRS, , CRD 1</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6526603319">
+        <rdfs:label>Student Affairs, Coordinator 1</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6526603319">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n1045309"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2375210179">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n6526603319"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1045309">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n6526603319"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2644799245">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2644799245">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2644799245">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2644799245">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2644799245">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2644799245">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2644799245">
+        <ufVivo:dateHarvested>2014-05-09T14:13:06.623028</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2644799245">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2644799245">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2644799245">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n1889856998"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2644799245">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2644799245">
+        <vivo:hrJobTitle>CO CLIN AST PROF</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2644799245">
+        <rdfs:label>Courtesy Clinical Assistant Professor</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n2644799245">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n867890"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1889856998">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n2644799245"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n867890">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n2644799245"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9888292189">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9888292189">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9888292189">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9888292189">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9888292189">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9888292189">
+        <ufVivo:dateHarvested>2014-05-09T14:36:36.089564</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9888292189">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9888292189">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n6123452205"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9888292189">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9888292189">
+        <vivo:hrJobTitle>EXT AGENT I</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9888292189">
+        <rdfs:label>Extension Agent I</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9888292189">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n1023304"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1023304">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n9888292189"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n6123452205">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n9888292189"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5661593966">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5661593966">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5661593966">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5661593966">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5661593966">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5661593966">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5661593966">
+        <ufVivo:dateHarvested>2014-05-09T15:37:56.265600</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5661593966">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5661593966">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5661593966">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n8266201576"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5661593966">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5661593966">
+        <vivo:hrJobTitle>CO CLIN LECTURER</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5661593966">
+        <rdfs:label>Courtesy Clinical Lecturer</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5661593966">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n50506"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n50506">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n5661593966"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8266201576">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n5661593966"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5634669105">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5634669105">
+        <rdf:type rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5634669105">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5634669105">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Position"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5634669105">
+        <rdf:type rdf:resource="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5634669105">
+        <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DependentResource"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5634669105">
+        <ufVivo:dateHarvested>2014-05-09T15:37:15.767932</ufVivo:dateHarvested>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5634669105">
+        <vitro1:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#FacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5634669105">
+        <vitro1:mostSpecificType rdf:resource="http://vivo.ufl.edu/ontology/vivo-ufl/CourtesyFacultyPosition"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5634669105">
+        <vivo:dateTimeInterval rdf:resource="http://vivo.ufl.edu/individual/n1267131865"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5634669105">
+        <ufVivo:harvestedBy>Python People version 1.0</ufVivo:harvestedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5634669105">
+        <vivo:hrJobTitle>CO CLIN LECTURER</vivo:hrJobTitle>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5634669105">
+        <rdfs:label>Courtesy Clinical Lecturer</rdfs:label>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n5634669105">
+        <vivo:positionInOrganization rdf:resource="http://vivo.ufl.edu/individual/n50506"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n50506">
+        <vivo:organizationForPosition rdf:resource="http://vivo.ufl.edu/individual/n5634669105"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n1267131865">
+        <ufVivo:dateTimeIntervalFor rdf:resource="http://vivo.ufl.edu/individual/n5634669105"/>
+    </rdf:Description>
+
+</rdf:RDF>
